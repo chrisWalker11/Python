@@ -1,0 +1,99 @@
+###############################
+#list of all words and symbols#
+###############################
+
+print() - prints out text or strings
+
+f"{string}"- formats the text and prints out variables in {}
+
+.format() does the same thing as f string
+
+def - defines function
+
+from [something] import [module] imports module from group
+
+= - assigns the value on the right to variable on the left
+
+== tests whether two things have the same value
+
+# - comment
+
++ plus
+
+- minus
+
+* asterisk
+
+% percent modulus
+
+< less than
+
+> greater than
+
+<= less-than-equal
+
+>= greater-than-equal
+
+\\ Backslash
+
+\' single quote
+
+\" double quote
+
+\a ASCII bell
+
+\b ASCII backspace
+
+\f ASCII formfeed
+
+\n new line
+
+\N{name} Character named name in the unicode database
+
+\r carriage return
+
+\t horizontal tab
+
+\uxxxx character with 16-bit hex value xxxx
+
+\Uxxxxxxxx character with 32-bit hex value xxxxxxxx
+
+\v ASCII vertical tab
+
+\000 character with octal value 000
+
+\xhh character with hex value hh
+
+input() - takes user input
+
+end=' ' - not end line with newline character and go to the next line
+
+from import - adds features from python feature set
+
+argv - argument variable
+
+""" - multi-line print
+
+open() - opens file
+
+close() - closes the file
+
+read() - Reads contents of the file. You can assign the result to a variable
+
+readline() - Reads just one line of a text file
+
+truncate() - Empties the file. Watch out if you care about the file.
+
+write('stuff') - Writes "stuff" to the file.
+
+seek(0) - Move the read/write location to the begnning of the file
+
+'w' - open file in write mode
+
+'r' - read file
+
+'a' - append file
+
+len() - gets the length of the string that you pass it to then returns that as a number
+
+

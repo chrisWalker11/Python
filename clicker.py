@@ -1,5 +1,4 @@
 import pyautogui
-import time
 print('position mouse')
 input("r?")
 print(pyautogui.position())

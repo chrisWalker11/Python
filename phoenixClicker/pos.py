@@ -19,4 +19,4 @@ lx = input("input x coordinate for confirm: ")
 ly = input("input y coordinate for confirm: ")
 with open('variables.py', 'a') as f:
     f.writelines("x2 = " +  lx + '\n')
-    f.writelines("y2 = " + ly + '\n')
+    f.writelines("y2 = " + ly)

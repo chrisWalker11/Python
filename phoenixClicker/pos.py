@@ -13,10 +13,10 @@ with open("variables.py", "w") as f:
 
 
 print("put cursor  over agent confirm")
-input("press enter once over confirm)
+input("press enter once over confirm")
 print(pyautogui.position())
 lx = input("input x coordinate for confirm: ")
 ly = input("input y coordinate for confirm: ")
-with open('variables.py', 'a') as f:
+with open("variables.py", 'a') as f:
     f.writelines("x2 = " +  lx + '\n')
     f.writelines("y2 = " + ly)

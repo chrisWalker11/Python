@@ -2,7 +2,7 @@ import pyautogui
 
 
 
-print("start with phoenix")
+print("start with agent of choice")
 input("press enter once over agent")
 print(pyautogui.position())
 px = input("input x coordinate for agent: ")

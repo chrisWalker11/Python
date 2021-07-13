@@ -1,0 +1,13 @@
+{"songlist": [{"id": 1234, "title": "Girl Like You", "artist": "Toro y Moi", "year": 2017, "genre":"Alternative/indie"},
+
+              {"id": 8930, "title": "Bicileta", "artist": "Marcos Valle", "year": 1984, "genre":"Samba"},
+
+              {"id": 6797, "title": "Epton on Broadway", "artist": "Holy Ghost!", "year": 2019, "genre": "Dance/Electroic"},
+
+              {"id": 2345, "title": "Toi Et Moi", "artist": "Paradis", "year": 2016, "genre": "Electroic"},
+
+              {"id": 4837, "title": "Learning to love", "artist": "LA Priest", "year": 2015, "genre": "Electronic/Indie"}
+
+             ]
+
+}

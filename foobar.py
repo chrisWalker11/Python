@@ -32,5 +32,5 @@ def is_prime(n):
         if n % i == 0:
             return False
     return True
-
-print(solution(123))
+s = input("enter desired number to solve for \n >")
+print(solution(s))
